@@ -1,9 +1,9 @@
-# MxNet Modeling on Python
+# MXNet Modeling on Python
 
-## Pre-requisites Installation on Apache MxNet
+## Pre-requisites Installation on Apache MXNet
 
-[MxNet Site - Installation](http://mxnet.io/get_started/install.html)
+[MXNet Site - Installation](http://mxnet.io/get_started/install.html)
 
 ## Educational Algorithms
 
-[MxNet Site - Python Tutorials](http://mxnet.io/api/python/index.html)
+[MXNet Site - Python Tutorials](http://mxnet.io/api/python/index.html)
