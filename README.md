@@ -1,9 +1,14 @@
-# MXNet Modeling on Python
+# MXNet Modeling on Python Sandbox
 
-## Pre-requisites Installation on Apache MXNet
+Reference sites for content within this project:
 
-[MXNet Site - Installation](http://mxnet.io/get_started/install.html)
+Apache MXNet:
+- [Installation](http://mxnet.io/get_started/install.html)
 
-## Educational Algorithms
+Education:
+- [Python Tutorials](http://mxnet.io/api/python/index.html)
 
-[MXNet Site - Python Tutorials](http://mxnet.io/api/python/index.html)
+
+_Personal Environment Notes:_
+- Analytics Installation:  Although using Mac, installation is using the Linux version using Pip.
+- Visualization : Graphviz
