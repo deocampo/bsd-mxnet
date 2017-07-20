@@ -10,5 +10,5 @@ Education:
 
 
 _Personal Environment Notes:_
-- Analytics Installation:  Although using Mac, installation is using the Linux version using Pip.
+- Analytics Installation:  Although using Mac, installation is using the Linux version via Pip.
 - Visualization : Graphviz
