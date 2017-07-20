@@ -1,4 +1,4 @@
-# MXNet Modeling on Python Sandbox
+# MXNet Modeling (Python) Sandbox
 
 Reference sites for content within this project:
 
