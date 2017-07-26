@@ -15,5 +15,7 @@ e = c.bind(mx.cpu(), {'a': mx.nd.array([1,2]), 'b':mx.nd.array([2,3])})
 y = e.forward()
 print(y)
 
-
-
+a = mx.nd.ones((2, 3))
+b = a * 2 + 1
+b.asnumpy()
+print(b)

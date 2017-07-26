@@ -2,8 +2,7 @@
 
 Reference sites for content within this project:
 
-Apache MXNet:
-- [Installation](http://mxnet.io/get_started/install.html)
+[MxNet Site - Installation](http://mxnet.io/get_started/install.html) : Used the MacOS, Python, CPU, Pip version of the installation.
 
 Education:
 - [Python Tutorials](http://mxnet.io/api/python/index.html)
