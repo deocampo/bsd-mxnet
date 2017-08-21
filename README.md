@@ -15,7 +15,7 @@ Education:
 - [Symbols](http://mxnet.io/tutorials/basic/symbol.html)
 - [Modules](http://mxnet.io/tutorials/basic/module.html)
 
-Modified code above slightly from the sources to include in a package, and to explicity create variables for nested object.  Somehow, eclipse gives an error. So for example, the following:
+Modified code above slightly from the sources to include in a package, and to explicity create variables for nested objects.  S So for example, the following:
 
 ```
 net = mx.sym.Variable('data')
